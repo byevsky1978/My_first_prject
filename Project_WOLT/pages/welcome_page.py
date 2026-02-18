@@ -12,7 +12,8 @@ class WelcomePage():
         search_menu.click()
         search_menu.fill(item)
         #search_menu.click()
-        page.keyboard.press("Enter")
+        self.page.keyboard.press("Enter")
+
 
 
 
