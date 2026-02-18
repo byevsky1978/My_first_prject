@@ -3,6 +3,7 @@ from Project_WOLT.pages.welcome_page import WelcomePage
 
 
 class TestMain():
+
     def test_main(self,setup_playwright_project_wolt):
         page = setup_playwright_project_wolt
         page.goto(URL)

@@ -5,6 +5,7 @@ from Project_WOLT.globals import URL
 
 
 @pytest.fixture(scope="session")
+
 def setup_playwright_project_wolt():
     print (f"starting playwright")
     with sync_playwright() as playwright:
