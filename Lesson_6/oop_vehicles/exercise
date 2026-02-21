@@ -1,0 +1,17 @@
+Car
+In constructor to define the brand , if car is electric
+Function1 :To return the  total price by price +tax
+Function2:To return the remain battery by the diff between battery size and battery usage , if car is electric
+Truck
+In constructor to define brand , and wheels_amount
+Function 1  :To return  the  total price by price +tax
+Function2 :  to return and print the distance according speed and tine
+
+Main part
+To create  2 cars according :
+Electric
+Not electric
+Calculate price on one of the cars
+To create 1 truck
+Calculate price
+Compare prices truck VS car
